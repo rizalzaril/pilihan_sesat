@@ -40,11 +40,7 @@ imgBoxes.forEach((box, index) => {
         5
       );
     } else if (index === 2) {
-      showCountdownAndRedirect(
-        "ASTAGFIRULLAH!!! ANDA MASUK NERAKA",
-        "https://www.youtube.com/watch?v=Shm39XHEiuw",
-        5
-      );
+      showCountdownAndRedirect("SELAMAT BERCOLI", "https://www.xnxx.com/", 5);
     }
   });
 });
